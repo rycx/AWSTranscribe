@@ -1,0 +1,10 @@
+/Users/rycx/git repos/mgm/ProcessConvo/ProcessText/src/ProcessText/bin/Debug/netcoreapp2.0/ProcessText.deps.json
+/Users/rycx/git repos/mgm/ProcessConvo/ProcessText/src/ProcessText/bin/Debug/netcoreapp2.0/ProcessText.runtimeconfig.json
+/Users/rycx/git repos/mgm/ProcessConvo/ProcessText/src/ProcessText/bin/Debug/netcoreapp2.0/ProcessText.runtimeconfig.dev.json
+/Users/rycx/git repos/mgm/ProcessConvo/ProcessText/src/ProcessText/bin/Debug/netcoreapp2.0/ProcessText.dll
+/Users/rycx/git repos/mgm/ProcessConvo/ProcessText/src/ProcessText/bin/Debug/netcoreapp2.0/ProcessText.pdb
+/Users/rycx/git repos/mgm/ProcessConvo/ProcessText/src/ProcessText/obj/Debug/netcoreapp2.0/ProcessText.csproj.CoreCompileInputs.cache
+/Users/rycx/git repos/mgm/ProcessConvo/ProcessText/src/ProcessText/obj/Debug/netcoreapp2.0/ProcessText.AssemblyInfoInputs.cache
+/Users/rycx/git repos/mgm/ProcessConvo/ProcessText/src/ProcessText/obj/Debug/netcoreapp2.0/ProcessText.AssemblyInfo.cs
+/Users/rycx/git repos/mgm/ProcessConvo/ProcessText/src/ProcessText/obj/Debug/netcoreapp2.0/ProcessText.dll
+/Users/rycx/git repos/mgm/ProcessConvo/ProcessText/src/ProcessText/obj/Debug/netcoreapp2.0/ProcessText.pdb

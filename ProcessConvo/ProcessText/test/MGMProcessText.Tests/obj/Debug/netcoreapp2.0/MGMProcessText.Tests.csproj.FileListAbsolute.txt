@@ -1,0 +1,16 @@
+/Users/rycx/git repos/mgm/ProcessConvo/MGMProcessText/test/MGMProcessText.Tests/bin/Debug/netcoreapp2.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/rycx/git repos/mgm/ProcessConvo/MGMProcessText/test/MGMProcessText.Tests/bin/Debug/netcoreapp2.0/xunit.runner.reporters.netcoreapp10.dll
+/Users/rycx/git repos/mgm/ProcessConvo/MGMProcessText/test/MGMProcessText.Tests/bin/Debug/netcoreapp2.0/xunit.runner.utility.netcoreapp10.dll
+/Users/rycx/git repos/mgm/ProcessConvo/MGMProcessText/test/MGMProcessText.Tests/bin/Debug/netcoreapp2.0/MGMProcessText.Tests.deps.json
+/Users/rycx/git repos/mgm/ProcessConvo/MGMProcessText/test/MGMProcessText.Tests/bin/Debug/netcoreapp2.0/MGMProcessText.Tests.runtimeconfig.json
+/Users/rycx/git repos/mgm/ProcessConvo/MGMProcessText/test/MGMProcessText.Tests/bin/Debug/netcoreapp2.0/MGMProcessText.Tests.runtimeconfig.dev.json
+/Users/rycx/git repos/mgm/ProcessConvo/MGMProcessText/test/MGMProcessText.Tests/bin/Debug/netcoreapp2.0/MGMProcessText.Tests.dll
+/Users/rycx/git repos/mgm/ProcessConvo/MGMProcessText/test/MGMProcessText.Tests/bin/Debug/netcoreapp2.0/MGMProcessText.Tests.pdb
+/Users/rycx/git repos/mgm/ProcessConvo/MGMProcessText/test/MGMProcessText.Tests/bin/Debug/netcoreapp2.0/MGMProcessText.dll
+/Users/rycx/git repos/mgm/ProcessConvo/MGMProcessText/test/MGMProcessText.Tests/bin/Debug/netcoreapp2.0/MGMProcessText.pdb
+/Users/rycx/git repos/mgm/ProcessConvo/MGMProcessText/test/MGMProcessText.Tests/obj/Debug/netcoreapp2.0/MGMProcessText.Tests.csproj.CoreCompileInputs.cache
+/Users/rycx/git repos/mgm/ProcessConvo/MGMProcessText/test/MGMProcessText.Tests/obj/Debug/netcoreapp2.0/MGMProcessText.Tests.AssemblyInfoInputs.cache
+/Users/rycx/git repos/mgm/ProcessConvo/MGMProcessText/test/MGMProcessText.Tests/obj/Debug/netcoreapp2.0/MGMProcessText.Tests.AssemblyInfo.cs
+/Users/rycx/git repos/mgm/ProcessConvo/MGMProcessText/test/MGMProcessText.Tests/obj/Debug/netcoreapp2.0/MGMProcessText.Tests.csproj.CopyComplete
+/Users/rycx/git repos/mgm/ProcessConvo/MGMProcessText/test/MGMProcessText.Tests/obj/Debug/netcoreapp2.0/MGMProcessText.Tests.dll
+/Users/rycx/git repos/mgm/ProcessConvo/MGMProcessText/test/MGMProcessText.Tests/obj/Debug/netcoreapp2.0/MGMProcessText.Tests.pdb

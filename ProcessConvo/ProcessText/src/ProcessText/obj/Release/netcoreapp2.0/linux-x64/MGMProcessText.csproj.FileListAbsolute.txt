@@ -1,0 +1,10 @@
+/Users/rycx/git repos/mgm/ProcessConvo/MGMProcessText/src/MGMProcessText/bin/Release/netcoreapp2.0/linux-x64/MGMProcessText.deps.json
+/Users/rycx/git repos/mgm/ProcessConvo/MGMProcessText/src/MGMProcessText/bin/Release/netcoreapp2.0/linux-x64/MGMProcessText.runtimeconfig.json
+/Users/rycx/git repos/mgm/ProcessConvo/MGMProcessText/src/MGMProcessText/bin/Release/netcoreapp2.0/linux-x64/MGMProcessText.runtimeconfig.dev.json
+/Users/rycx/git repos/mgm/ProcessConvo/MGMProcessText/src/MGMProcessText/bin/Release/netcoreapp2.0/linux-x64/MGMProcessText.dll
+/Users/rycx/git repos/mgm/ProcessConvo/MGMProcessText/src/MGMProcessText/bin/Release/netcoreapp2.0/linux-x64/MGMProcessText.pdb
+/Users/rycx/git repos/mgm/ProcessConvo/MGMProcessText/src/MGMProcessText/obj/Release/netcoreapp2.0/linux-x64/MGMProcessText.csproj.CoreCompileInputs.cache
+/Users/rycx/git repos/mgm/ProcessConvo/MGMProcessText/src/MGMProcessText/obj/Release/netcoreapp2.0/linux-x64/MGMProcessText.AssemblyInfoInputs.cache
+/Users/rycx/git repos/mgm/ProcessConvo/MGMProcessText/src/MGMProcessText/obj/Release/netcoreapp2.0/linux-x64/MGMProcessText.AssemblyInfo.cs
+/Users/rycx/git repos/mgm/ProcessConvo/MGMProcessText/src/MGMProcessText/obj/Release/netcoreapp2.0/linux-x64/MGMProcessText.dll
+/Users/rycx/git repos/mgm/ProcessConvo/MGMProcessText/src/MGMProcessText/obj/Release/netcoreapp2.0/linux-x64/MGMProcessText.pdb

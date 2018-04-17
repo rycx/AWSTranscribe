@@ -1,0 +1,10 @@
+/Users/rycx/git repos/mgm/ProcessAudio/ProcessAudio/src/ProcessAudio/bin/Debug/netcoreapp2.0/ProcessAudio.deps.json
+/Users/rycx/git repos/mgm/ProcessAudio/ProcessAudio/src/ProcessAudio/bin/Debug/netcoreapp2.0/ProcessAudio.runtimeconfig.json
+/Users/rycx/git repos/mgm/ProcessAudio/ProcessAudio/src/ProcessAudio/bin/Debug/netcoreapp2.0/ProcessAudio.runtimeconfig.dev.json
+/Users/rycx/git repos/mgm/ProcessAudio/ProcessAudio/src/ProcessAudio/bin/Debug/netcoreapp2.0/ProcessAudio.dll
+/Users/rycx/git repos/mgm/ProcessAudio/ProcessAudio/src/ProcessAudio/bin/Debug/netcoreapp2.0/ProcessAudio.pdb
+/Users/rycx/git repos/mgm/ProcessAudio/ProcessAudio/src/ProcessAudio/obj/Debug/netcoreapp2.0/ProcessAudio.csproj.CoreCompileInputs.cache
+/Users/rycx/git repos/mgm/ProcessAudio/ProcessAudio/src/ProcessAudio/obj/Debug/netcoreapp2.0/ProcessAudio.AssemblyInfoInputs.cache
+/Users/rycx/git repos/mgm/ProcessAudio/ProcessAudio/src/ProcessAudio/obj/Debug/netcoreapp2.0/ProcessAudio.AssemblyInfo.cs
+/Users/rycx/git repos/mgm/ProcessAudio/ProcessAudio/src/ProcessAudio/obj/Debug/netcoreapp2.0/ProcessAudio.dll
+/Users/rycx/git repos/mgm/ProcessAudio/ProcessAudio/src/ProcessAudio/obj/Debug/netcoreapp2.0/ProcessAudio.pdb

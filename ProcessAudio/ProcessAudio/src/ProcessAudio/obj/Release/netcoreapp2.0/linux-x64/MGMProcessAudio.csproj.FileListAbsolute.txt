@@ -1,0 +1,10 @@
+/Users/rycx/git repos/mgm/ProcessAudio/MGMProcessAudio/src/MGMProcessAudio/bin/Release/netcoreapp2.0/linux-x64/MGMProcessAudio.deps.json
+/Users/rycx/git repos/mgm/ProcessAudio/MGMProcessAudio/src/MGMProcessAudio/bin/Release/netcoreapp2.0/linux-x64/MGMProcessAudio.runtimeconfig.json
+/Users/rycx/git repos/mgm/ProcessAudio/MGMProcessAudio/src/MGMProcessAudio/bin/Release/netcoreapp2.0/linux-x64/MGMProcessAudio.runtimeconfig.dev.json
+/Users/rycx/git repos/mgm/ProcessAudio/MGMProcessAudio/src/MGMProcessAudio/bin/Release/netcoreapp2.0/linux-x64/MGMProcessAudio.dll
+/Users/rycx/git repos/mgm/ProcessAudio/MGMProcessAudio/src/MGMProcessAudio/bin/Release/netcoreapp2.0/linux-x64/MGMProcessAudio.pdb
+/Users/rycx/git repos/mgm/ProcessAudio/MGMProcessAudio/src/MGMProcessAudio/obj/Release/netcoreapp2.0/linux-x64/MGMProcessAudio.csproj.CoreCompileInputs.cache
+/Users/rycx/git repos/mgm/ProcessAudio/MGMProcessAudio/src/MGMProcessAudio/obj/Release/netcoreapp2.0/linux-x64/MGMProcessAudio.AssemblyInfoInputs.cache
+/Users/rycx/git repos/mgm/ProcessAudio/MGMProcessAudio/src/MGMProcessAudio/obj/Release/netcoreapp2.0/linux-x64/MGMProcessAudio.AssemblyInfo.cs
+/Users/rycx/git repos/mgm/ProcessAudio/MGMProcessAudio/src/MGMProcessAudio/obj/Release/netcoreapp2.0/linux-x64/MGMProcessAudio.dll
+/Users/rycx/git repos/mgm/ProcessAudio/MGMProcessAudio/src/MGMProcessAudio/obj/Release/netcoreapp2.0/linux-x64/MGMProcessAudio.pdb

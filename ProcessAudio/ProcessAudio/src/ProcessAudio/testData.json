@@ -1,0 +1,12 @@
+{
+    "requestId": "79ea2ddb-b52f-42ff-b55b-9a1a3ff09b0a",
+    "sessionId": "4c1149bc-b947-42d3-8a9d-4d052b20862c",
+    "timestamp": "2017-01-17T02:09:36.4952363Z",
+    "userId": "d4406b60-8439-424c-80c5-ba096728b3cd",
+    "serverIp": "192.168.1.1",
+    "message": "The request had bad words in it",
+    "level": "Module",
+    "category": "Information",
+    "request": "{\"iAm\": \"a request\"}",
+    "response": "{\"andHereIs\": \"a response\"}"
+}
